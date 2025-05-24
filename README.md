@@ -27,6 +27,6 @@ Bu proje, kullanıcının uyku kalitesi, uyanma süresi, çevresel gürültü se
 1. Python 3.x yüklü olmalıdır.  
 2. Gerekli kütüphaneleri yükleyin:  
    ```bash
-   pip install matplotlib tkinter
+    pip install -r requirements.txt
 
 
