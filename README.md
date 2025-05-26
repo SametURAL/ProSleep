@@ -30,7 +30,7 @@ Bu proje, kullanıcının uyku kalitesi, uyanma süresi, çevresel gürültü se
     pip install -r requirements.txt
 
 
-   conda env create -f environment.yml
+   conda env create -f requirements.yml
    conda activate fuzzy_env
 
 
