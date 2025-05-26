@@ -37,6 +37,22 @@ Bu proje, kullanıcının uyku kalitesi, uyanma süresi, çevresel gürültü se
 
    conda env create -f requirements.yml
    conda activate fuzzy_env
+```
+
+```bash
+git clone https://github.com/SametURAL/ProSleep.git
+```
+
+- Proje klasörüne geç
+python
+```bash
+cd ProSleep
+```
 
 
+- Programı çalıştır
+```bash
+python
+python gui.py
+```
 
