@@ -27,6 +27,11 @@ Bu proje, kullanıcının uyku kalitesi, uyanma süresi, çevresel gürültü se
 1. Python 3.x yüklü olmalıdır.  
 2. Gerekli kütüphaneleri yükleyin:  
    ```bash
+
+    pip install numpy matplotlib scikit-fuzzy 
+  ---- hata alırsanız aşağıdaki proje ortamdaki tüm kütüphaneleri indirebilirsiniz.
+```bash
+
     pip install -r requirements.txt
 
 
